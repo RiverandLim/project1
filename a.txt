@@ -3,3 +3,4 @@ orange shoe
 blue shirt
 
 print pants
+red glove
