@@ -1,3 +1,5 @@
 yellow hat
 orange shoe
 blue shirt
+
+print pants
